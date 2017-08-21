@@ -1,6 +1,6 @@
 # Deeplearning-practice
 
-Mục tiêu chung: Anh/ chị có thể hiểu và nắm được cách xây dựng một model neural network cho một bài toán sử dụng thư viện Keras.
+Mục tiêu chung: Anh/ chị có thể hiểu và nắm được cách xây dựng một model neural network cho một bài toán cụ 
 
 ## Sử dụng Jupyter Notebook
 
