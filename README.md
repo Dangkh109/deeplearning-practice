@@ -1,6 +1,6 @@
 # Deeplearning
 
-Mục tiêu chung: Anh/ chị có thể hiểu và nắm được cách xây dựng một model neural network cho một bài toán cụ 
+Mục tiêu chung: Anh/ chị có thể hiểu và nắm được cách xây dựng một model neural network cho một bài toán cụ thể.
 
 ## Sử dụng Jupyter Notebook
 
