@@ -13,7 +13,7 @@ Keras là công cụ trợ giúp các anh/chị với deep learning. Tìm hiểu
 ## CNN
 
 Trong phần này, anh/chị được thực hành các bước cơ bản trong một bài toán phân loại có sử dụng convolutional neural network. Mục tiêu của phần này là anh/ chị có thể hiểu được cách xây dựng một model CNN đơn giản có chức năng phân loại các ảnh. 
-- Trong mục **CNN Cifar.ipynb** anh/ chị tự xây dựng một mạng ConvNet cho bài toán classification với bộ dataset CIFAR10.
+- Trong **CNN Cifar.ipynb** anh/ chị tự xây dựng một mạng ConvNet cho bài toán classification với bộ dataset CIFAR10.
 - Trong **CNN_trainedmodel.ipynb** 1 ví dụ cho anh/ chị có thể áp dụng trực tiếp kết quả training có sẵn vào mục đích classification của mình. 
 - **Visualize convolution.ipynb** giúp anh/ chị thấy được kết quả của một ảnh sau khi đi qua một lớp trong mạng ConvNet.
 - **CNN_Catech** là phần tự thực hành, anh/ chị áp dụng cách làm tương tự để có một model classification cho bộ dataset [Catech](http://www.vision.caltech.edu/Image_Datasets/Caltech101/)
@@ -21,6 +21,8 @@ Trong phần này, anh/chị được thực hành các bước cơ bản trong 
 ## RNN
 
 Trong phần này, anh/ chị sẽ được tiếp cận một vài bài toán được giải quyết bằng phương pháp của RNN.
+- Trong **RNN_text_generation** anh/ chị sẽ tìm hiểu bài toán generation text sử dụng một mạng RNN đơn giản. 
+- Trong **RNN simple** anh/ chị sẽ tìm hiểu bài toán setiment classification.
 
 ## Autoencoder
 
